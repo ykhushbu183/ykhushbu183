@@ -24,8 +24,8 @@ I'm Tushar — a developer passionate about **Web3 & DeFi**.
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-stats-extended.vercel.app/api?username=ykhushbu183&show_icons=true&theme=dark&include_all_commits=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=ykhushbu183&show_icons=true&theme=dark)
 
-![Streak](https://github-stats-extended.vercel.app/api/streak?username=ykhushbu183&theme=dark)
+![Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ykhushbu183&layout=compact&theme=dark)
 
-![Languages](https://github-stats-extended.vercel.app/api/top-lang?username=ykhushbu183&layout=compact&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ykhushbu183&theme=dark)

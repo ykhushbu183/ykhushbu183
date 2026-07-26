@@ -4,7 +4,7 @@ I'm Tushar — a developer passionate about **Web3 & DeFi**.
 
 ### About Me
 
-- Working on DeFi projects on GIWA Chain
+- Working on DeFi projects
 - Smart contract development and dApp prototyping
 - Learning Solidity, Web3 integrations, and blockchain architecture
 - Open to collaborating on Web3 and DeFi experiments
